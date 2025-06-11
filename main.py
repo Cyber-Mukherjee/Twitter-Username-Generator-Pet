@@ -1,4 +1,4 @@
-#Twitter username generator
+#Twitter username generator by Cyber-Mukherjee
 
 print("Namastey People\nWelcome to Gaurav's Twitter Username Generator Project\n")
 
